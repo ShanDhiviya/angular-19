@@ -1,11 +1,11 @@
 {
   "name": "angular-19-project",
-  "homepage": "https://shandhiviya.github.io/angular-19-project",
+  "homepage": "https://shandhiviya.github.io/angular-19",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build --base-href /angular-19-project/",
+    "build": "ng build --base-href /angular-19",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "deploy": "gh-pages -d dist",
