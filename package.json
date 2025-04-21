@@ -8,7 +8,7 @@
     "build": "ng build --base-href /angular-19",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "deploy": "gh-pages -d dist",
+    "deploy": "gh-pages -d dist/angular-19",
     "serve:ssr:angular-19-project": "node dist/angular-19-project/server/server.mjs"
   },
   "private": true,
