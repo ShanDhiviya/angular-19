@@ -1,6 +1,6 @@
 
 export default {
-  basePath: '/',
+  basePath: '/angular-19-project',
   supportedLocales: {
   "en-US": ""
 },
