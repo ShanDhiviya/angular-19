@@ -8,7 +8,7 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "deploy": "ng build --base-href=/angular-19/ && npx angular-cli-ghpages --dir=dist/browser",
+    "deploy": "gh-pages -d dist",
     "serve:ssr:angular-19-project": "node dist/angular-19-project/server/server.mjs"
   },
   "private": true,
