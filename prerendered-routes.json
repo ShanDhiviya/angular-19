@@ -1,6 +1,6 @@
 {
   "routes": {
-    "/angular-19-project": {},
-    "/angular-19-project/profile": {}
+    "/angular-19": {},
+    "/angular-19/profile": {}
   }
 }
